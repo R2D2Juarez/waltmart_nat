@@ -1,4 +1,4 @@
-package com.example.waltmart_nat.view.main_activity;
+package com.example.waltmart_nat.view.mainactivity;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -14,8 +14,8 @@ import com.example.waltmart_nat.R;
 import com.example.waltmart_nat.data.remote.WeatherDataHandler;
 import com.example.waltmart_nat.model.ThreadObjectReturns;
 import com.example.waltmart_nat.model.forecast.ForecastProfile;
-import com.example.waltmart_nat.view.CurrentConditionsFragment.CurrentConditionsFragment;
-import com.example.waltmart_nat.view.ForecastFragment.ForecastFragment;
+import com.example.waltmart_nat.view.currentconditionsfragment.CurrentConditionsFragment;
+import com.example.waltmart_nat.view.forecastfragment.ForecastFragment;
 
 import io.fabric.sdk.android.Fabric;
 

@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorBlack"
-    tools:context="com.example.waltmart_nat.view.ForecastFragment.ForecastFragment">
+    tools:context="com.example.waltmart_nat.view.forecastfragment.ForecastFragment">
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/rvForecast"

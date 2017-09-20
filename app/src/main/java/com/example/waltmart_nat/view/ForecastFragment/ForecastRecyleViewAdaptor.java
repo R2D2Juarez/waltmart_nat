@@ -1,4 +1,4 @@
-package com.example.waltmart_nat.view.ForecastFragment;
+package com.example.waltmart_nat.view.forecastfragment;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;

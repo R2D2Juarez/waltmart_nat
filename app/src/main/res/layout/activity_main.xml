@@ -6,7 +6,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.waltmart_nat.view.main_activity.MainActivity">
+    tools:context="com.example.waltmart_nat.view.mainactivity.MainActivity">
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"

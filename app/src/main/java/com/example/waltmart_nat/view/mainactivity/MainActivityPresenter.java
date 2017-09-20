@@ -1,4 +1,4 @@
-package com.example.waltmart_nat.view.main_activity;
+package com.example.waltmart_nat.view.mainactivity;
 
 import com.example.waltmart_nat.data.remote.WeatherDataHandler;
 import com.example.waltmart_nat.model.ThreadObjectReturns;

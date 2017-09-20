@@ -1,4 +1,4 @@
-package com.example.waltmart_nat.view.CurrentConditionsFragment;
+package com.example.waltmart_nat.view.currentconditionsfragment;
 
 import android.content.Context;
 import android.net.Uri;
